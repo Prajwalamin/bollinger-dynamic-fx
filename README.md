@@ -1,3 +1,3 @@
-![Poster](bollinger_dynamic.pdf)
+![Poster](BollingerDynamic.pdf)
 
 
