@@ -1,3 +1,3 @@
-![Poster](BollingerDynamic.pdf)
+![Poster](./BollingerDynamic.pdf)
 
 
