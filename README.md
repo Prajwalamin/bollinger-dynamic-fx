@@ -1,4 +1,5 @@
 | Total Trades | 141 |
+
 | Win Rate (Long) | 96 / 141 (90.62%) |
 | Max Balance Drawdown | 1.95% ($218.17) |
 | Max Equity Drawdown | 23.44% ($2,565.04) |
